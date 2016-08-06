@@ -1,0 +1,34 @@
+_repo: Plays-of-Gods-and-Men_11283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: The laughter of the gods. -- The queen's enemies. -- The tents of the
+  Arabs. -- A night in an inn
+gutenberg_bookshelf:
+- Fantasy
+- One Act Plays
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy drama, English'
+- GITenberg
+tableOfContents: The Laughter of the Gods -- The Queen's Enemies -- The Tents of the
+  Arabs -- A Night at an Inn.
+title: Plays of Gods and Men
+url: http://www.gutenberg.org/ebooks/11283
