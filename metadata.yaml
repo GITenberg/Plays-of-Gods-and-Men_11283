@@ -1,5 +1,8 @@
 _repo: Plays-of-Gods-and-Men_11283
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
 description: The laughter of the gods. -- The queen's enemies. -- The tents of the
   Arabs. -- A night in an inn
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11283#Plays-of-Gods-and-Men
 gutenberg_bookshelf:
 - Fantasy
 - One Act Plays
